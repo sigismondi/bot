@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "a liri bot the uses spotify and imdb to grab infromation back",
+  "main": "bot-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sigismondi/bot.git"
+  },
+  "author": "Collin Sigismondi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sigismondi/bot/issues"
+  },
+  "homepage": "https://github.com/sigismondi/bot#readme"
+}
